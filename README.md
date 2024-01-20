@@ -1,6 +1,5 @@
 # Diabetes Prediction Using Machine Learning
 
-![Project Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.innoquest.com.my%2Fhealth-matters%2Fdiabetes%2F&psig=AOvVaw0AVnl-dKfaDa70VuHqLlLD&ust=1705820665209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjF_amz64MDFQAAAAAdAAAAABAD)
 
 ## Overview
 
